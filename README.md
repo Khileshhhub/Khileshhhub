@@ -30,11 +30,16 @@
 
 ---
 
-## 📫 Connect With Me  
 
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
-💻 [Portfolio Website](https://yourportfolio.com) *(optional)*  
-📧 [Email Me](mailto:your.email@example.com)  
+💻 Tech Stack:
+C C++ CSS3 HTML5 Java JavaScript Python PowerShell TypeScript Windows Terminal Google Cloud AWS Vercel OpenCV Qt TailwindCSS Apache AmazonDynamoDB Appwrite Postgres MySQL MongoDB MicrosoftSQLServer Supabase Keras Matplotlib NumPy Pandas PyTorch scikit-learn TensorFlow
+
+📊 GitHub Stats:
+
+
+
+
+✍️ Random Dev Quote
 
 ---
 
