@@ -10,7 +10,7 @@
 
 - **Languages:** Python ,Java ,SQL, C++, JavaScript 
 - **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn ,Scikit-learn, TensorFlow/PyTorch ( ML), Streamlit, FastAPI (APIs)
-- **Cloud & Platforms:** AWS (RDS, S3, Redshift, DynamoDB, CloudWatch)  
+- **Cloud & Platforms:** AWS  
 - **Data & Visualization:** Excel, Power BI, Tableau  
 - **Other Strengths:** Business Development, Collaboration, Problem-Solving  
 
