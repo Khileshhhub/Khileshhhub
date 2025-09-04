@@ -1,18 +1,18 @@
 # 👋 Hi, I’m Khilesh  
 
-🌟 Final-year **B.Tech student** passionate about **Data Analytics, Cloud, and Business Innovation**.  
+🌟 Final-year **B.Tech student** passionate about **Data, Cloud, and Business Innovation**.  
 💡 I enjoy turning **data into insights** and building projects that blend **technology + business impact**.  
-🚀 Open to opportunities in **Data Analytics | Business Development | Cloud Technologies**.  
+🚀 Open to opportunities in **Data Analytics | Data Science |Business Development | Cloud Technologies**.  
 
 ---
 
 ## 🛠️ Skills & Tools  
 
-- **Languages:** Python ,Java ,SQL, C++, JavaScript 
+- **Languages:** Python, SQL, MongoDB, R
 - **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn ,Scikit-learn, TensorFlow/PyTorch ( ML), Streamlit, FastAPI (APIs)
 - **Cloud & Platforms:** AWS  
 - **Data & Visualization:** Excel, Power BI, Tableau  
-- **Other Strengths:** Business Development, Collaboration, Problem-Solving  
+- **Other Strengths:** Business Development, Collaboration, Problem-Solving, Communication 
 
 
 
