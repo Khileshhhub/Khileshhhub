@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000428,004e92,00f2ff&height=250&section=header&text=Hey,%20I'm%20Khilesh&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20Future%20of%20Productivity&descAlignY=60&descAlign=50&stroke=000000&strokeWidth=0" alt="Khilesh Header" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=28D6FF&center=true&vCenter=true&width=500&lines=Hey,+I'm+Khilesh;Architecting+the+Future;AI+%7C+Productivity+%7C+Systems" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
+<div align="center">
 
-### 🚀 Final-Year Engineering Student | AI Enthusiast | Systems Architect
 
 </div>
 
